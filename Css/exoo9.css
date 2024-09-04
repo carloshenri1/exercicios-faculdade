@@ -1,0 +1,17 @@
+p{
+    color:blueviolet;
+    font-size: 36px;
+    background-color:chocolate;
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+   
+}
+
+#sobrenome{
+    color: aqua;
+    background-color: beige;
+}
+.texto{
+    color: aqua;
+}
